@@ -8,7 +8,7 @@ This project explores the factors driving track popularity on TikTok, focusing o
 ## Methodology ⚙️
 The project employs a comprehensive approach, integrating several key analyses to reach its conclusions:
 
-###Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - This step provides a preliminary examination of the dataset, identifying significant correlations and patterns. The analysis revealed a notable correlation between "artist_pop" and "track_pop," suggesting that artist popularity has a global impact on track success.
 
 
