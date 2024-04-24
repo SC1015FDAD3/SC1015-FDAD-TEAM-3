@@ -8,7 +8,8 @@ This project explores the factors driving track popularity on TikTok, focusing o
 ## Methodology ⚙️
 The project employs a comprehensive approach, integrating several key analyses to reach its conclusions:
 
-- **Exploratory Data Analysis (EDA)**: This step provides a preliminary examination of the dataset, identifying significant correlations and patterns. The analysis revealed a notable correlation between "artist_pop" and "track_pop," suggesting that artist popularity has a global impact on track success.
+###Exploratory Data Analysis (EDA)
+- This step provides a preliminary examination of the dataset, identifying significant correlations and patterns. The analysis revealed a notable correlation between "artist_pop" and "track_pop," suggesting that artist popularity has a global impact on track success.
 
 
 ### Machine Learning 
@@ -24,7 +25,6 @@ Our dual-analysis strategy provides a thorough understanding of what makes a son
 
 - **T-Test Validation**: T-tests were used to assess the statistical significance of differences between clusters. This validation step confirms the distinctiveness of certain clusters and identifies key differentiators.
 
-- **Text Analysis of Lyrics**: Planned future enhancement, involving scraping lyrics from the Genius API and performing text analysis to explore the relationship between lyrical content and musical elements.
 
 ## Key Insights 🔍
 The project identifies several factors contributing to TikTok virality:
