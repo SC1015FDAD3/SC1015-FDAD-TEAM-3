@@ -56,15 +56,13 @@ Nykodym, N., Kraljevic, T., Wang, A., and Wong W. (October 2022). Generalized Li
 
 | Contributor       | Contributions                                                |
 |-------------------|--------------------------------------------------------------|
-| Nguyen Viet Dung  |                                                              | 
-|                   | - Data Preparation and Cleaning                              |
+| Nguyen Viet Dung  | - Data Preparation and Cleaning                              |
 |                   | - Exploratory Analysis                                       |
 |                   | - Linear Regression                                          |
 |                   | - Presentation                                               |
-| Teo Wei Yew       |                                                              |
-|                   | - Machine Learning (Random Forest, Lasso, H2O AutoML)        |
+| Teo Wei Yew       | - Machine Learning (Random Forest, Lasso, H2O AutoML)        |
 |                   | - Machine Learning (Clustering)                              |
-|                   | - Insights and Recommendations Presentation                  |
+|                   | - Presentation                  |
 
 
 ## How to Use This Repository 🛠️
