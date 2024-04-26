@@ -4,7 +4,6 @@
 This project explores the factors driving track popularity on TikTok, focusing on musical qualities, clustering analysis, and statistical validation. It aims to uncover the key elements contributing to a song's virality on TikTok, emphasising that star power is not always necessary for success.
 
 ## Methodology ⚙️
-The project employs a comprehensive approach, integrating several key analyses to reach its conclusions:
 
 ### Exploratory Data Analysis (EDA)
 - This step provides a preliminary examination of the dataset, identifying significant correlations and patterns. The analysis revealed a notable correlation between "artist_pop" and "track_pop," suggesting that artist popularity has a global impact on track success.
@@ -13,7 +12,6 @@ The project employs a comprehensive approach, integrating several key analyses t
 ### Machine Learning 
 
 We split our machine learning analysis into two parts:
-
 
 - **Part 1: Feature Analysis with Linear Regression, Random Forest Regression, Lasso Regression, H2O AutoML**: Helped identify the most significant predictors of track popularity. Confirmed that "artist_pop" is the most significant factor affecting "track_pop" globally. 
 
