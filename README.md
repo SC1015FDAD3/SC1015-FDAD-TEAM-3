@@ -38,6 +38,35 @@ While traditional music platforms rely heavily on artist popularity, TikTok offe
 ## Future Directions 🚀
 The project plans to explore advanced feature engineering with text analysis of lyrics, focusing on the relationship between lyrical content and musical elements. By combining musical and textual analysis, the project aims to provide a more comprehensive understanding of what drives song virality on TikTok.
 
+## References and Acknowledgement
+We obtained our datasets from: https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2022, https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2021, https://www.kaggle.com/code/tayyarhussain/tiktok-songs-2020-dataset-data-analysis, https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2019.
+
+Dataman, C. K. (2023, January 30). Explain your model with the shap values. Medium. https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d 
+
+H2O.ai. (2022) h2o: Python Interface for H2O. Python package version 3.42.0.2. https://github.com/h2oai/h2o-3.
+
+Iqbal, M. (2024, April 18). Tiktok revenue and Usage Statistics (2024). Business of Apps. https://www.businessofapps.com/data/tik-tok-statistics/ 
+
+Jeswani, L. (2023, April 28). Uncovering the hits: Using machine learning to analyze TikTok’s popular songs of 2019. Medium. https://medium.com/@lokeshjeswani/uncovering-the-hits-using-machine-learning-to-analyze-tiktoks-popular-songs-of-2019-b293b16fab7c 
+
+Nykodym, N., Kraljevic, T., Wang, A., and Wong W. (October 2022). Generalized Linear Modeling with H2O. https://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/GLMBooklet.pdf.
+
+
+## Contributors
+
+| Contributor       | Contributions                                                |
+|-------------------|--------------------------------------------------------------|
+| Nguyen Viet Dung  |                                                              | 
+|                   | - Data Preparation and Cleaning                              |
+|                   | - Exploratory Analysis                                       |
+|                   | - Linear Regression                                          |
+|                   | - Presentation                                               |
+| Teo Wei Yew       |                                                              |
+|                   | - Machine Learning (Random Forest, Lasso, H2O AutoML)        |
+|                   | - Machine Learning (Clustering)                              |
+|                   | - Insights and Recommendations Presentation                  |
+
+
 ## How to Use This Repository 🛠️
 - **Code**: This repository contains code for EDA, feature analysis, clustering, and statistical validation.
 - **Instructions**: Follow the README and additional documentation to understand the project's structure and run the analyses.
