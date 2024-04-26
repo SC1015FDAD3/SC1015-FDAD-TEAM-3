@@ -1,6 +1,4 @@
-# SC1015-FDAD-TEAM-3
-
-# TikTok Music Popularity Analysis 🎵
+# SC1015-FDAD-TEAM-3: TikTok Music Popularity Analysis 🎵
 
 ## Project Overview 🌟
 This project explores the factors driving track popularity on TikTok, focusing on musical qualities, clustering analysis, and statistical validation. It aims to uncover the key elements contributing to a song's virality on TikTok, emphasising that star power is not always necessary for success.
